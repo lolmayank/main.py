@@ -5,7 +5,7 @@ import telebot
 ##TOKEN DETAILS
 TOKEN = "INR"
 
-BOT_TOKEN = "5238761724:AAF3VsZc9WkAYqv9b5DZQans4wVKm8Ul8Bc"
+BOT_TOKEN = "5159229485:AAHtYkGx-GSQSd-qVtKtykZVkx8HBHsCPkU"
 PAYMENT_CHANNEL = "@mayankgaur3"
 OWNER_ID = 1937991053
 CHANNELS = ["@mglootersi", "@mgtricksk", "@mgofficialg"]
